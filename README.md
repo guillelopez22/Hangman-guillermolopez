@@ -9,4 +9,3 @@ Este juego es muy sencillo:
   ya dentro del juego solo es de seguir las instrucciones que se piden.
 
   se pierde al equivocarse 6 veces.
-  testing nada mas
